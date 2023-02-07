@@ -53,43 +53,43 @@ Web server
 Here is a snaps from the web application shows: 
 
 > Login UI
-<img src="LogInUI.png" width="520" height="320">
+<img src="/images/LogInUI.png" width="520" height="320">
 
 
 &nbsp;
 
 > Maintenance Log Dashboard - (1)
 
-<img src="KPIoverview.png" width="520" height="330">
+<img src="/images/KPIoverview.png" width="520" height="330">
 
 &nbsp;
 
 > Maintenance Log Dashboard - (2)
 
 
-<img src="formoverview.png" width="520" height="300">
+<img src="/images/formoverview.png" width="520" height="300">
 
      
 &nbsp;
 
 > Visual Insight Dashboard - (1)
 
-<img src="visualInsight.png" width="520" height="300">
+<img src="/images/visualInsight.png" width="520" height="300">
 
      
 &nbsp;
 
 > Visual Insight Dashboard - (2)
 
-<img src="visualInsight2.png" width="520" height="300">
+<img src="/images/visualInsight2.png" width="520" height="300">
 
 &nbsp;
 
 > Quick Search Dashboard
-<img src="quickSearch.png" width="520" height="300">
+<img src="/images/quickSearch.png" width="520" height="300">
      
 &nbsp;
 
 > Status Tracking Dashboard
-<img src="statusTracking.png" width="520" height="300">     
+<img src="/images/statusTracking.png" width="520" height="300">     
 &nbsp;
