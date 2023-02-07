@@ -91,5 +91,6 @@ Here is a snaps from the web application shows:
 &nbsp;
 
 > Status Tracking Dashboard
+
 <img src="/images/statusTracking.png" width="520" height="300">     
 &nbsp;
