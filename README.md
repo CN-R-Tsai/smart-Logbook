@@ -20,7 +20,7 @@ The flow of recording equipment maintenance log management was manual process. I
 Web apps make it easy for easily tracking and managing repairs. It enables communication for unlimited users and provides a real-time view of equipment health, location and status.
 
 ## Impacts of sLogbook web application
-smart Logbook has been implemented to multiple teams on the field with 200+ users daily, leading to a `producitivty improvement 90%` and saved a `operation time 5.5K/year per team`!  
+smart Logbook has been implemented to multiple teams on the field with monthly traffic of 3K users, leading to a `producitivty improvement 90%` and saved a `operation time 5.5K/year per team!  
 
 ## Technologies Used
 The `smart Logbook` web app is built using,
