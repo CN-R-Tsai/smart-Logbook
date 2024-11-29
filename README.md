@@ -1,7 +1,7 @@
 # smart Logbook
 
 Updated on May 11, 2023
-Author: C.N. Roger T.
+Author: C.N. Roger Tsai
 
 👋 Hello there!
 
