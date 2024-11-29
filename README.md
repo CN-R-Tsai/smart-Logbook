@@ -1,4 +1,4 @@
-# smart Logbook
+# smart Logbook (sLogbook)
 
 Updated on May 11, 2023 (This repo is not updated.)
 
