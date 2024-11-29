@@ -1,6 +1,6 @@
 # smart Logbook
 
-Updated on May 11, 2023
+Updated on May 11, 2023 (This repo is not updated.)
 Author: C.N. Roger Tsai
 
 👋 Hello there!
